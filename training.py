@@ -153,7 +153,7 @@ if __name__ == '__main__':
     testData = {}
     words = {}
     NUMBER_OF_DATA = 1500
-    NUMBER_OF_WORDS = 6969
+    NUMBER_OF_WORDS = 6968 + 1
 
     # offset index by 1
     trainLabels.append(False)
